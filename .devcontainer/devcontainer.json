@@ -1,4 +1,4 @@
 {
-    "image": "https://hub.docker.com/nginx"
+    "image": "nginx:stable"
    
 }
